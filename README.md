@@ -4,21 +4,21 @@
 
 ### 计算机网络工程课程资源
 
-| 周次   | 课件  | 笔记 |
-| ------ | :---: | ---: |
-| week1  | slide | note |
-| week2  | slide | note |
-| week3  | slide | note |
-| week4  | slide | note |
-| week5  | slide | note |
-| week6  | slide | note |
-| week7  | slide | note |
-| week8  | slide | note |
-| week9  | slide | note |
-| week10 | slide | note |
-| week11 | slide | note |
-| week12 | slide | note |
-| week13 | slide | note |
-| week14 | slide | note |
-| week15 | slide | note |
-| week16 | slide | note |
+| 周次   |                                           课件                                            |                                                                                                                                                     笔记 | 实验                                                                                               |
+| ------ | :---------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- |
+| week1  |    [slide](https://github.com/hingsmy/computer_networking_repo/tree/main/slides/week1)    |                                                                                                                                                     note |
+| week2  |    [slide](https://github.com/hingsmy/computer_networking_repo/tree/main/slides/week2)    |                                                                                                                                                     note |
+| week3  |  [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week3.pdf)  |                                                                                                                                                     note |
+| week4  |                                           slide                                           |                                                                                                                                                     note |
+| week5  |  [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week5.pdf)  | [note](https://github.com/hingsmy/computer_networking_repo/blob/main/notes/2020%20%E5%B9%B4%2010%20%E6%9C%88%2012%20%E6%97%A5%20%E7%AC%AC5%E5%91%A8.pdf) |
+| week6  |  [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week6.pdf)  | [note](https://github.com/hingsmy/computer_networking_repo/blob/main/notes/2020%20%E5%B9%B4%2010%20%E6%9C%88%2019%20%E6%97%A5%20%E7%AC%AC6%E5%91%A8.pdf) | [lab0](https://github.com/hingsmy/computer_networking_repo/tree/main/lab/lab0)                     |
+| week7  | [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week7-8.pdf) | [note](https://github.com/hingsmy/computer_networking_repo/blob/main/notes/2020%20%E5%B9%B4%2010%20%E6%9C%88%2026%20%E6%97%A5%20%E7%AC%AC7%E5%91%A8.pdf) | [lab1 (Transfer Path)](https://github.com/hingsmy/computer_networking_repo/tree/main/lab/lab1)     |
+| week8  | [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week7-8.pdf) |  [note](https://github.com/hingsmy/computer_networking_repo/blob/main/notes/2020%20%E5%B9%B4%2011%20%E6%9C%88%202%20%E6%97%A5%20%E7%AC%AC8%E5%91%A8.pdf) | [lab1 (Access&Trunk Port)](https://github.com/hingsmy/computer_networking_repo/tree/main/lab/lab1) |
+| week9  |  [slide](https://github.com/hingsmy/computer_networking_repo/blob/main/slides/week9.pdf)  |  [note](https://github.com/hingsmy/computer_networking_repo/blob/main/notes/2020%20%E5%B9%B4%2011%20%E6%9C%88%209%20%E6%97%A5%20%E7%AC%AC9%E5%91%A8.pdf) | [lab3](https://github.com/hingsmy/computer_networking_repo/tree/main/lab/lab3)                     |
+| week10 |                                           slide                                           |                                                                                                                                                     note |
+| week11 |                                           slide                                           |                                                                                                                                                     note |
+| week12 |                                           slide                                           |                                                                                                                                                     note |
+| week13 |                                           slide                                           |                                                                                                                                                     note |
+| week14 |                                           slide                                           |                                                                                                                                                     note |
+| week15 |                                           slide                                           |                                                                                                                                                     note |
+| week16 |                                           slide                                           |                                                                                                                                                     note |
